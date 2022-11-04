@@ -2,6 +2,8 @@
 
 Check it live on [yasionfire.github.io/secretsanta/](http://yasionfire.github.io/secretsanta/).
 
+forked from: arcanis/secretsanta
+
 ## License (MIT)
 
 > **Copyright © 2015 Maël Nison**
